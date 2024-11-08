@@ -11,9 +11,9 @@ const img2Random = "images/dice" + randomNumber2 + ".png";
 img2.setAttribute("src", img2Random);
 
 if(randomNumber1 > randomNumber2){
-    document.querySelector("h1").innerHTML = "Player 1 wins 🎲";
+    document.querySelector("h1").innerHTML = "You won 🎉 ";
 }else if(randomNumber2 > randomNumber1){
-    document.querySelector("h1").innerHTML = "🎲 Player 2 wins";
+    document.querySelector("h1").innerHTML = "Computer won 💔 ";
 }else{
     document.querySelector("h1").innerHTML = "🎲 DRAW 🎲"
 }

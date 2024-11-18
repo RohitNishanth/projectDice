@@ -8,7 +8,6 @@ Are you feeling lucky? Test your fate with the **Dice Game**, a fun and simple g
 
 ## 🌟 Features
 - 🎲 **Interactive Dice Roll**: Click to roll the dice and see the results instantly!
-- 🥇 **Multiplayer Mode**: Play with a friend and see who wins!
 - 🎨 **Sleek and Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - ⚡ **Quick and Fun Gameplay**: Perfect for a quick break or hours of entertainment.
 

@@ -25,7 +25,8 @@ Are you feeling lucky? Test your fate with the **Dice Game**, a fun and simple g
 ## 📸 Screenshots
 
 ### 🎮 Game Interface
-![Game Interface](Dice.png)
+<img src="images/Dice.png" alt="Description of the image" width="500" />
+
 
 ---
 

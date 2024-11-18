@@ -15,7 +15,7 @@ Are you feeling lucky? Test your fate with the **Dice Game**, a fun and simple g
 ---
 
 ## 🎮 How to Play
-1. **Open the Game**: [Play Dice Game Here!](rohitnishanth.github.io/projectDice/)  
+1. **Open the Game**: [Play Dice Game Here!](https://rohitnishanth.github.io/projectDice/)  
 2. **Roll the Dice**: Click the **"Roll"** button to roll the dice.  
 3. **Let the Dice Decide**: The player with the higher number wins the round.  
 4. **Challenge a Friend**: Play as **Player 1** or **Player 2** and see who’s the luckiest!  
